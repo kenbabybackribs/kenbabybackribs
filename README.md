@@ -31,7 +31,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenbabybackribs&show_icons=true&locale=en&layout=compact&theme=shadow_red" alt="kenbabybackribs"/>
-  <img align="right" width="25%" src="https://github.com/user-attachments/assets/6adfc5e6-049d-4daf-8c8d-0c3f1b18e252">
+  <img align="right" width="30%" src="https://github.com/user-attachments/assets/6adfc5e6-049d-4daf-8c8d-0c3f1b18e252">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenbabybackribs&theme=shadow_red" alt="kenbabybackribs" /></p>
 
