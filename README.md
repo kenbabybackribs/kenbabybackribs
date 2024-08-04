@@ -10,7 +10,7 @@
 <br>
 
 
-<div><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="80" />
+<div align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="80" />
 <img align="left" width="35%" src="https://github.com/user-attachments/assets/ba54adfe-7b3b-4f83-9157-235de6151560">
 <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
 </div>
