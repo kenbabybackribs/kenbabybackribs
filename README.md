@@ -3,16 +3,17 @@
 
 <br>
 <p align="center">
-  <img align="center" width="65%" src="https://github.com/user-attachments/assets/af856333-75dc-42f4-a45b-8ba305cac031">
+  <img align="center" width="55%" src="https://github.com/user-attachments/assets/bd87e3a9-549d-444f-ada4-868a79215b98">
 </p>
 
 
 <br>
 
 
-<div align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="80" />
+<div align="center"><p>
+<img align="right" width="50%" src="https://github.com/user-attachments/assets/0d9b03de-92c0-4cfd-b561-7bfb28e42e35">
+</p>
 <img align="left" width="35%" src="https://github.com/user-attachments/assets/ba54adfe-7b3b-4f83-9157-235de6151560">
-<img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
 </div>
 
 <br>
