@@ -6,14 +6,13 @@
   <img align="center" width="60%" src="https://github.com/user-attachments/assets/bd87e3a9-549d-444f-ada4-868a79215b98">
 </p>
 
-
 <br>
 
 
 <div align="center"><p>
 <img align="right" width="50%" src="https://github.com/user-attachments/assets/9c83a59e-7c4e-4cf4-a995-f18bd88504a5">
 </p>
-<img align="left" width="30%" src="https://github.com/user-attachments/assets/ba54adfe-7b3b-4f83-9157-235de6151560">
+<img align="left" width="30%" src="https://github.com/user-attachments/assets/338b9e71-3a3b-416d-b2a2-4c85630a4b38">
 </div>
 
 <br>
